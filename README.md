@@ -24,4 +24,4 @@ Projekt został zrealizowany w języku Python, co sprawia, że jest łatwo dost�
 1. Skonfiguruj swoje środowisko Python.
 2. Sklonuj repozytorium.
 3. Zainstaluj wymagane zależności.
-4. Zapoznaj się z dokumentacją w plikach źródłowych, aby zrozumieć, jak uruchomić i testować poszczególne funkcje systemu.
+4. Odpal main.py
